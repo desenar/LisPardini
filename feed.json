@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://desenar.github.io/LisPardini/teste.html",
+            "url": "https://desenar.github.io/LisPardini/teste.html",
+            "title": "Teste",
+            "summary": " ",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://desenar.github.io/LisPardini/media/posts/2/19-9_6-fundo-de-tela.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://desenar.github.io/LisPardini/media/posts/2/responsive/19-9_6-fundo-de-tela-xs.jpeg 300w ,https://desenar.github.io/LisPardini/media/posts/2/responsive/19-9_6-fundo-de-tela-sm.jpeg 480w ,https://desenar.github.io/LisPardini/media/posts/2/responsive/19-9_6-fundo-de-tela-md.jpeg 768w ,https://desenar.github.io/LisPardini/media/posts/2/responsive/19-9_6-fundo-de-tela-lg.jpeg 1024w ,https://desenar.github.io/LisPardini/media/posts/2/responsive/19-9_6-fundo-de-tela-xl.jpeg 1360w ,https://desenar.github.io/LisPardini/media/posts/2/responsive/19-9_6-fundo-de-tela-2xl.jpeg 1600w\"  height=\"4526\" width=\"8048\" alt=\"\" />\n      \n    </figure>",
+            "author": {
+                "name": "Marcos Nobre"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-12-17T12:35:19-03:00",
+            "date_modified": "2021-12-17T12:35:19-03:00"
+        },
+        {
             "id": "https://desenar.github.io/LisPardini/review-semanal-lis-dti.html",
             "url": "https://desenar.github.io/LisPardini/review-semanal-lis-dti.html",
             "title": "Review semanal - Lis DTI",
