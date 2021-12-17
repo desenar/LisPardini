@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://desenar.github.io/LisPardini/sitemap.xml

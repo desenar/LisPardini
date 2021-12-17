@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Lis Dti</title>
+    <link href="https://desenar.github.io/LisPardini/feed.xml" rel="self" />
+    <link href="https://desenar.github.io/LisPardini" />
+    <updated>2021-12-17T11:58:40-03:00</updated>
+    <author>
+        <name>Marcos Nobre</name>
+    </author>
+    <id>https://desenar.github.io/LisPardini</id>
+
+    <entry>
+        <title>Review semanal - Lis DTI</title>
+        <author>
+            <name>Marcos Nobre</name>
+        </author>
+        <link href="https://desenar.github.io/LisPardini/review-semanal-lis-dti.html"/>
+        <id>https://desenar.github.io/LisPardini/review-semanal-lis-dti.html</id>
+
+        <updated>2021-12-17T11:58:40-03:00</updated>
+            <summary>
+                <![CDATA[
+                     Vamos ver se isso dá certo dessa vez 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://desenar.github.io/LisPardini/media/posts/1/19-9_6-fundo-de-tela.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://desenar.github.io/LisPardini/media/posts/1/responsive/19-9_6-fundo-de-tela-xs.jpeg 300w ,https://desenar.github.io/LisPardini/media/posts/1/responsive/19-9_6-fundo-de-tela-sm.jpeg 480w ,https://desenar.github.io/LisPardini/media/posts/1/responsive/19-9_6-fundo-de-tela-md.jpeg 768w ,https://desenar.github.io/LisPardini/media/posts/1/responsive/19-9_6-fundo-de-tela-lg.jpeg 1024w ,https://desenar.github.io/LisPardini/media/posts/1/responsive/19-9_6-fundo-de-tela-xl.jpeg 1360w ,https://desenar.github.io/LisPardini/media/posts/1/responsive/19-9_6-fundo-de-tela-2xl.jpeg 1600w"  height="4526" width="8048" alt="" />
+      
+    </figure>
+
+  <p>
+    Vamos ver se isso dá certo dessa vez
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
